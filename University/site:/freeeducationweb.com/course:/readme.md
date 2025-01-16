@@ -2,3 +2,4 @@
 - https://freeeducationweb.com/reverse-engineering-memory-hacking-and-software-protection/
 - https://freeeducationweb.com/learn-programming-and-reverse-engineering-by-hacking-games/
 - https://freeeducationweb.com/reverse-engineering-and-malware-analysis-fundamentals/
+- https://freeeducationweb.com/assembly-language-programming-for-reverse-engineering/
