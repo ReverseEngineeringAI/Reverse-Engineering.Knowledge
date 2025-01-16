@@ -1,2 +1,3 @@
 - https://freeeducationweb.com/defeating-anti-reverse-engineering-and-anti-debugging-techniques/
 - https://freeeducationweb.com/reverse-engineering-memory-hacking-and-software-protection/
+- https://freeeducationweb.com/learn-programming-and-reverse-engineering-by-hacking-games/
