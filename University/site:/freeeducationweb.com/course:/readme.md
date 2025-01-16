@@ -7,6 +7,7 @@
 - https://freeeducationweb.com/learn-reverse-engineering-through-android-games/
 - https://freeeducationweb.com/reverse-engineering-frida-for-beginners/
 - https://freeeducationweb.com/android-pentesting-101/
+- https://freeeducationweb.com/the-complete-ios-pentesting-bug-bounty-course/
 
 # paid:
 - https://freeeducationweb.com/reverse-engineering-for-arm-platforms/
