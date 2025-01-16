@@ -11,3 +11,4 @@
 
 # paid:
 - https://freeeducationweb.com/reverse-engineering-for-arm-platforms/
+- https://freeeducationweb.com/ec-council-open-source-intelligence/
